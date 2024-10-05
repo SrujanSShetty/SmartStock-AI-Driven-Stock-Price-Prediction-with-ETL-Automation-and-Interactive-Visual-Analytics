@@ -1,4 +1,4 @@
-SmartStock: AI-Driven Stock Price Prediction :Using Deep Learning, ETL, SQL, and Power BI
+SmartStock: AI-Driven Stock Price Prediction : Using Deep Learning, ETL, SQL, and Power BI
 
 Overview
 
